@@ -1,6 +1,6 @@
 # Crumb
 
-Anonymous, hyperlocal posting in the spirit of the original Yik Yak. No profiles, no handles, no groups — just a
+Anonymous, hyperlocal posting. No profiles, no handles, no groups — just a
 feed of short posts from people within ~5 miles of you.
 
 - **Anonymous:** posts and replies show no identity. The only marker is `OP` on replies from the original poster.
